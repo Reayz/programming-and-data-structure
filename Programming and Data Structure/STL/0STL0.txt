@@ -1,0 +1,39 @@
+#include<cstdio>
+#include<sstream>
+#include<cstdlib>
+#include<cctype>
+#include<cmath>
+#include<algorithm>
+#include<set>
+#include<queue>
+#include<stack>
+#include<list>
+#include<iostream>
+#include<fstream>
+#include<numeric>
+#include<string>
+#include<vector>
+#include<cstring>
+#include<map>
+#include<iterator>
+using namespace std;
+
+01. Structure
+02. class
+03. fuction overloding
+04. cin, cout, scanf, printf
+05. template
+06. vector
+07. string
+08. stack
+09. queue
+10. priority_queue
+11. iterator
+12. sort
+13. set
+13. map
+14. pair
+15. stringstream
+16. next_permutation
+17. prev_permutation
+18. reverse
