@@ -1,0 +1,8 @@
+inf = 1<<28
+
+that's mean 1*(2^28): which mean left shif of 1, 28 times.
+that is a lowest number, where we use as negetive maximun in this problem.
+
+
+-inf means negetive infinity, where this is a very small number. such as -1000000000
+

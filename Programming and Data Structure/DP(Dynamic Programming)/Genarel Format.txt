@@ -1,0 +1,14 @@
+Genarel formal of DP
+
+int/double/long long call(int x1,int x2........,int xn)
+{
+
+	 CHECK BASE CASES,RETURN IF REACHED ANY OF THE BASE CASES
+	 CHECK TABLE,RETURN IF VALUE IS ALREADY COMPUTED
+	 ELSE
+ 	 {
+ 		COMPUTE VALUE RECURSIVELY AND SAVE IN A N-Dimensional TABLE/ARRAY
+		 RETURN VALUE
+	 }
+
+}
